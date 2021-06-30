@@ -1,0 +1,6 @@
+module Pods_Crowdfunding_CrowdfundingTests {
+  umbrella header "Pods-Crowdfunding-CrowdfundingTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
